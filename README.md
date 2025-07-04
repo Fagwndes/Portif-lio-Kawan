@@ -49,7 +49,7 @@ Site vitrine responsivo inspirado no design moderno da Nike.
 
 ## 🔗 Acesse o Portfólio
 
-👉 [Clique aqui para visualizar online](https://fagwndes.github.io/**NOME-DO-REPOSITORIO**)
+👉 [Clique aqui para visualizar online](https://fagwndes.github.io/Portif-lio-Kawan/)
 
 ---
 
