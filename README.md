@@ -16,8 +16,8 @@ Este projeto é um portfólio pessoal desenvolvido com **HTML** e **CSS puro**, 
 
 ## 💡 Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
+- ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 - Responsividade com Media Queries  
 - Efeitos visuais com `hover`, `blur`, `box-shadow` e gradientes
 
